@@ -1,0 +1,19 @@
+.form-control {
+    width: 90%;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.form-label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.form-input {
+    width: 100%;
+}
+
+.form-submit {
+    background: purple;
+    color: white;
+}
